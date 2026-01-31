@@ -1,7 +1,7 @@
 # tetraxchange-prototype
 # TetraXchange Prototype
 
-A carbon credit trading platform prototype built for YES 2025.
+A carbon credit trading platform prototype 
 
 ## Features
 - Carbon credit listing
